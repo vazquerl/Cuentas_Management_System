@@ -104,6 +104,6 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-For questions or suggestions, reach out to **your-email@example.com** or open an issue on GitHub.
+For questions or suggestions, reach out to vazquerl@gmatc.matc.edu or open an issue on GitHub.
 
 
